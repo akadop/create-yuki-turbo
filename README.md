@@ -39,7 +39,7 @@ apps
   |   └─ E2E Typesafe API Server & Client
   ├─ tanstack-start (COMING SOON)
   |   ├─ TanStack Start 1
-  |   ├─ React Native using React 19
+  |   ├─ React 19
   |   ├─ Tailwind CSS
   |   └─ E2E Typesafe API Server & Client
   └─ native
