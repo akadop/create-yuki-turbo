@@ -39,13 +39,13 @@ apps
   |   └─ E2E Typesafe API Server & Client
   ├─ tanstack-start (COMING SOON)
   |   ├─ TanStack Start 1
-  |   ├─ React 19
+  |   ├─ React Native using React 19
   |   ├─ Tailwind CSS
   |   └─ E2E Typesafe API Server & Client
   └─ native
-      ├─ Expo 53
+      ├─ Expo 53 (EXPERIMENTAL)
       ├─ React 19
-      └─ E2E Typesafe API Server & Client
+      └─ Typesafe API calls using tRPC
 packages
   ├─ api
   |   └─ tRPC v11 router definition
