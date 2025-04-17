@@ -44,7 +44,7 @@ apps
   |   └─ E2E Typesafe API Server & Client
   └─ native
       ├─ Expo 53 (EXPERIMENTAL)
-      ├─ React 19
+      ├─ React Native using React 19
       └─ Typesafe API calls using tRPC
 packages
   ├─ api
